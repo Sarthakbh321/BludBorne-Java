@@ -1,4 +1,4 @@
-package sarthak.bludborne.desktop.util;
+package sarthak.bludborne.util;
 
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.assets.AssetManager;
